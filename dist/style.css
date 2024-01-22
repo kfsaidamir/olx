@@ -83,3 +83,28 @@ section .container .regestration .main .facebook i {
   color: #003030;
 }
 
+
+ @media (max-width:420px) {
+
+        .regestration {
+            width: 100%;
+            border-radius: 12px;
+            height: max-content;
+            padding: 2px;
+        }
+
+        .logo > img {
+            width: 100%;
+        }
+
+        .container {
+            width: 100%;
+        }
+
+        .facebook {
+          width: 100%;
+        }
+
+
+    }
+

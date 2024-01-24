@@ -129,6 +129,10 @@ section .container .regestration .main .facebook i {
       padding-top:15px;
       font-size: 22px;
     }
+
+    section .container .regestration {
+      height: 29vh;
+    }
 }
 
 
@@ -138,8 +142,12 @@ section .container .regestration .main .facebook i {
   }
 
   section .container {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
+  }
+
+  section .container .regestration {
+    height: 32vh;
   }
 
   section .container .regestration .main .facebook {
@@ -147,7 +155,7 @@ section .container .regestration .main .facebook i {
     padding: 0px 10px;
     border-radius: 6px;
     margin: 10px;
-    border-radius: 8  px;
+    border-radius: 8px;
     background-color: rgb(193, 193, 193);
     display: flex;
     align-items: center;
